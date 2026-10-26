@@ -72,4 +72,4 @@ This project is provided for learning and IT troubleshooting purposes. Use it at
 
 ## License
 
-Choose a license before distributing or reusing this project. If you want others to freely use, modify, and redistribute your code, consider the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
